@@ -43,4 +43,4 @@ When you are done editing the page, return to the dashboard by clicking the Word
 
 ## Other things
 
-Wordpress is a very powerful platform, with many capabilities. For more advanced features, such as editing permissions, adding fonts, and so on, please consult the official Wordpress documentation, [codex.wordpress.org](https://codex.wordpress.org/Main_Page).
+Wordpress is a very powerful platform with many capabilities. For more advanced features, such as editing permissions, adding fonts, and so on, please consult the official Wordpress documentation, [codex.wordpress.org](https://codex.wordpress.org/Main_Page).
